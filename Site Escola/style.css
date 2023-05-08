@@ -47,3 +47,15 @@ header div ul li {
     left: 1162px;
     top: 13px;
 }
+
+.frente-escola {
+    width: 30%;
+}
+
+footer {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    background: #000000;
+    color: rgb(255, 255, 255);
+    height: 200px;
+}
