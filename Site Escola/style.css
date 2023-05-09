@@ -59,3 +59,21 @@ footer {
     color: rgb(255, 255, 255);
     height: 200px;
 }
+
+.rodape-informacoes {
+    padding: 5% 0 0 5%;
+}
+
+.rodape-informacoes img {
+    float: left;
+    margin-right: 20px;
+    height: 60px;
+}
+
+.rodape-informacoes  h1 {
+    font-size: 25px;
+}
+
+.rodape-informacoes  p {
+    font-size: 15px;
+}
