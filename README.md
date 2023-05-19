@@ -5,3 +5,5 @@ Equipe:
 <br>Rafael Martins Lobo
 <br>Evelin Cristiny da Silva Neves
 <br>Suellen Aparecida de Souza
+<br>Felipe Manoel Costa
+<br>Camila Rissa Yamamoto
